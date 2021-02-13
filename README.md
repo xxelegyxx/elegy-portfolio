@@ -33,7 +33,7 @@ This site is a landing page for Elegy (Joe Wood)'s animation portfolio. There ar
 Navigation is easy with a fixed navigation bar
 
 ### Fixed Logo
-Logo stays stationary as you scroll down the page
+Logo stays stationary as you scroll down the page. Simply swap the logo.png and adjust margins on the logo class to change logo and its dimensions
 
 ### Background Video
 This site features an autoplay background video. To change the background video, replace the video here- <br>
@@ -44,6 +44,9 @@ Embedded videos glow as you hover over them
 
 ###Socials bar
 Clean footer has social media widgets for easy contact/interaction using Font Aweosome.
+
+###Responsive design
+Site format changes based on screen resolution to accomidate mobile devices.
 
 ## :card_index: Credits 
 
