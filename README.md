@@ -29,9 +29,21 @@ To use this site for your own website or your client's website, follow these ste
 This site is a landing page for Elegy (Joe Wood)'s animation portfolio. There are gifs that play of his animation works that link to full videos hosted on YouTube.
 
 ![background-video](./assets/videos/dead-2-u-gif.mp4)
+### Responsive Navbar
+Navigation is easy with a fixed navigation bar
+
+### Fixed Logo
+Logo stays stationary as you scroll down the page
+
 ### Background Video
 This site features an autoplay background video. To change the background video, replace the video here- <br>
 ![screenshot-1](./assets/images/screenshot-1.png)
+
+###Interactive portfolio
+Embedded videos glow as you hover over them
+
+###Socials bar
+Clean footer has social media widgets for easy contact/interaction using Font Aweosome.
 
 ## :card_index: Credits 
 
