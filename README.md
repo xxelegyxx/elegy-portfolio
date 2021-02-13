@@ -5,7 +5,7 @@ Joe Wood's portfolio submission
 # elegy-portfolio
 
 ## :newspaper: Description 
-The following files contain the assets necessary to deploy a portfolio website for the 3D artist Joe Wood. The site is optimized using industry-recognized best practices for SEO and Semantic HTML5. Images have been tagged with alternative text to ensure site accessibility.
+The following files contain the assets necessary to deploy a portfolio website for the 3D artist Elegy. The site is optimized using industry-recognized best practices for SEO and Semantic HTML5. Images have been tagged with alternative text to ensure site accessibility. 
 
 ## :bookmark_tabs: Table of Contents 
 
@@ -26,8 +26,11 @@ To use this site for your own website or your client's website, follow these ste
     7. Save and deploy to your domain<br>
 
 ## :floppy_disk: Usage
-![screenshot of Horiseon site](assets/images/screenshot-2.png) <br>
+![gif off of site](assets/images/screenshot-2.png) <br>
 This site is a landing page for Elegy (Joe Wood)'s animation portfolio. There are gifs that play of his animation works that link to full videos hosted on YouTube.
+
+![background](assets/images/dead-2-u-gif.mp4)
+
 
 ## :card_index: Credits 
 
