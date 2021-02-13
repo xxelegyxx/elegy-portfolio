@@ -39,13 +39,13 @@ Logo stays stationary as you scroll down the page. Simply swap the logo.png and 
 This site features an autoplay background video. To change the background video, replace the video here- <br>
 ![screenshot-1](./assets/images/screenshot-1.png)
 
-###Interactive portfolio
+### Interactive portfolio
 Embedded videos glow as you hover over them
 
-###Socials bar
+### Socials bar
 Clean footer has social media widgets for easy contact/interaction using Font Aweosome.
 
-###Responsive design
+### Responsive design
 Site format changes based on screen resolution to accomidate mobile devices.
 
 ## :card_index: Credits 
