@@ -26,15 +26,12 @@ To use this site for your own website or your client's website, follow these ste
     7. Save and deploy to your domain<br>
 
 ## :floppy_disk: Usage
-![gif off of site](assets/images/screenshot-2.png) <br>
 This site is a landing page for Elegy (Joe Wood)'s animation portfolio. There are gifs that play of his animation works that link to full videos hosted on YouTube.
 
-![background](assets/images/dead-2-u-gif.mp4)
+[background-video](assets/videos/dead-2-u-gif.mp4)
 ## Background Video
 This site features an autoplay background video. To change the background video, replace the video here-
 ![screenshot-1](assets/images/screenshot-1.png)
-
-
 
 ## :card_index: Credits 
 
