@@ -30,7 +30,7 @@ This site is a landing page for Elegy (Joe Wood)'s animation portfolio. There ar
 
 ![background-video](/assets/videos/dead-2-u-gif.mp4)
 ## Background Video
-This site features an autoplay background video. To change the background video, replace the video here-
+This site features an autoplay background video. To change the background video, replace the video here- <br>
 ![screenshot-1](/assets/images/screenshot-1.png)
 
 ## :card_index: Credits 
